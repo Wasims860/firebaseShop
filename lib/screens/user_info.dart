@@ -101,7 +101,7 @@ class _UserInfoState extends State<UserInfo> {
                       ),
                       background: Image(
                         image: AssetImage('assets/images/guest.jpg'),
-                        fit: BoxFit.fill,
+                        fit: BoxFit.cover,
                       ),
                     ),
                   );
